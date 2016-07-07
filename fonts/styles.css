@@ -1,0 +1,118 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "ffineu";
+  src:url("fonts/ffineu.eot");
+  src:url("fonts/ffineu.eot?#iefix") format("embedded-opentype"),
+    url("fonts/ffineu.woff") format("woff"),
+    url("fonts/ffineu.ttf") format("truetype"),
+    url("fonts/ffineu.svg#ffineu") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "ffineu" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "ffineu" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-diamond:before {
+  content: "\61";
+}
+.icon-android-call:before {
+  content: "\62";
+}
+.icon-3:before {
+  content: "\63";
+}
+.icon-4:before {
+  content: "\64";
+}
+.icon-5:before {
+  content: "\65";
+}
+.icon-10:before {
+  content: "\66";
+}
+.icon-11:before {
+  content: "\67";
+}
+.icon-icon-2-03:before {
+  content: "\68";
+}
+.icon-19:before {
+  content: "\69";
+}
+.icon-13:before {
+  content: "\6b";
+}
+.icon-8:before {
+  content: "\6c";
+}
+.icon-18:before {
+  content: "\6e";
+}
+.icon-legal:before {
+  content: "\6f";
+}
+.icon-icon-2-05:before {
+  content: "\70";
+}
+.icon-icon-1-03:before {
+  content: "\6a";
+}
+.icon-fb:before {
+  content: "\6d";
+}
+.icon-gplus-circled:before {
+  content: "\72";
+}
+.icon-linkedin-circled:before {
+  content: "\73";
+}
+.icon-twitter-circle:before {
+  content: "\74";
+}
+.icon-university:before {
+  content: "\71";
+}
+.icon-shield:before {
+  content: "\75";
+}
+.icon-vimeo-circled:before {
+  content: "\76";
+}
+.icon-star-o:before {
+  content: "\77";
+}
+.icon-star-outline:before {
+  content: "\78";
+}
+.icon-star-empty:before {
+  content: "\79";
+}
+.icon-medal-rank-star:before {
+  content: "\7a";
+}
