@@ -37,7 +37,7 @@
                                 <p>Звоните нам —</p>
                             </li>
                             <li>
-                                <a href="tel:88005002020">8 800 500 20 20</a>
+                                <a href="tel:35722282929">+357 22 28 29 29</a>
                                 <span>Мы ответим на все вопросы</span>
                             </li>
                         </ul>                     
@@ -59,8 +59,16 @@
                     <div class="left-header-wrap">
                         <nav class="left-nav left-header-nav reg-sidebar-menu">
                             <ul class="left-nav__list hp-left-header__nav-list">
-                                <li>  
-                                    <a href="#main-page-head"><div class="icon icon-shield"></div>FFineu</a>
+                                <li>                       
+                                    <a href="#main-page-head">
+                                        <div class="icon icon-logo-two favorit-icon-logo">
+                                            <img src="images/logo-icon-two.png" alt="icon-logo">
+                                        </div>
+                                        <div class="icon icon-logo favorit-icon-logo">
+                                            <img src="images/logo-icon.png" alt="icon-logo">
+                                        </div>   
+                                        FFINEU                                        
+                                    </a>
                                 </li>
                                 <li>
                                     <a href="#main-license"><div class="icon icon-icon-2-03"></div>Лицензия</a>
@@ -123,7 +131,7 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="hp-we-head">
-                        <h2 class="main-headline">Мы это</h2>                       
+                        <h2 class="main-headline">О нас</h2>                       
                     </div>
                 </div>
             </div>
@@ -133,15 +141,15 @@
                         <ul>
                             <li>
                                 <img src="images/we-1.jpg" alt="advantages">
-                                <p>Мы современный, дружелюбный и очень надежный брокер с отличной клиентской поддержкой, имеющий команду с очень хорошим опытом и экспертизой на фондовом рынке США.</p>
+                                <p>Мы - современный, динамичный и надежный брокер с профессиональной клиентскойподдержкой, имеющий команду с опытом работы на фондовом рынке США.</p>
                             </li>
                             <li>
                                 <img src="images/we-2.jpg" alt="advantages">
-                                <p>Мы осуществляем поиск ярких идей на фондовом рынке США, сопровождение работы, постоянная поддержка, надежные платформы и технологии для качественной работы на рынке.  </p>
+                                <p>Мы осуществляем поиск ярких идей на фондовом рынке США, сопровождаем и оказываем постоянную поддержку, предоставляем надежные торговые платформы и технологии для качественной работы на рынке.</p>
                             </li>
                             <li>
                                 <img src="images/we-3.jpg" alt="advantages">
-                                <p>Через нас вам доступен прямой доступ либо через трейдера, либо используя торговую платформу к американским площадкам и возможность участвовать в IPO.</p>
+                                <p>Через наших трейдеров или посредством торговой платформы вы получаете прямой доступ к американским площадкам и возможность участвовать в IPO.</p>
                             </li>
                         </ul>
                     </div>
@@ -165,12 +173,18 @@
     <section id="main-customer" class="hp-customer">
         <div class="container clearfix">
             <div class="row">
-                <div class="col-md-5">
+                <div class="col-md-6">
                     <div class="hp-customer__content">
                         <h2 class="main-headline-white">Стать клиентом просто</h2>
-                        <p>Здесь текст описания этого блока, для</p> 
-                        <p>уточнения. Возможно в несколько строк,</p> 
-                        <p>вплоть до следующей строки.</p>
+                        <div class="hp-customer__content-item">
+                            <p>Шаг 1 – Заполнить и подписать <span>Анкету/Инвестиционный профиль Клиента.</span></p>
+                        </div>
+                        <div class="hp-customer__content-item">
+                            <p>Шаг 2 – Подготовить пакет документов, перечень которых указан в <span>ПРИЛОЖЕНИИ 1.1./1.2. к Договору об указании инвестиционных услуг – <a href="http://freedom.goldpromo.com/become-customer.php">Список документов</a></span></p>
+                        </div>
+                        <div class="hp-customer__content-item">
+                            <p>Шаг 3 – Пожалуйста отправляйте подготовленный пакет документов в компанию <span>FFINEU Investments Limited</span></p>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-4">                    

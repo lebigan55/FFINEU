@@ -1,5 +1,5 @@
 <?php 
-include_once "header.php"; 
+    include_once "header-eng.php"; 
 ?>
 
 <header class="news main-header">
@@ -13,14 +13,26 @@ include_once "header.php";
                     </div>
                 </div>
                 <div class="icon icon-apple"></div>
-                <ul class="menu">
-                    <li class="menu-item"><a href="http://freedom.goldpromo.com/">Главная</a></li>
-                    <li class="menu-item"><a href="http://freedom.goldpromo.com/about.php">О компании</a></li>
-                    <li class="menu-item"><a href="http://freedom.goldpromo.com/services.php">Услуги</a></li>
-                    <li class="menu-item"><a href="http://freedom.goldpromo.com/become-customer.php">Стать клиентом</a></li>
-                    <li class="menu-item"><a href="http://freedom.goldpromo.com/regulation.php">Регулирование</a></li>
-                    <li class="menu-item"><a href="http://freedom.goldpromo.com/contacts.php">Контакты</a></li>                       
-                </ul>
+                    <ul class="menu">
+                        <li class="menu-item">
+                            <a href="http://freedom.goldpromo.com/index-eng.php">Home</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="http://freedom.goldpromo.com/about-eng.php">About us</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="http://freedom.goldpromo.com/services-eng.php">Our services</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="http://freedom.goldpromo.com/become-customer-eng.php">To become a Client</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="http://freedom.goldpromo.com/regulation-eng.php">Regulations</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="http://freedom.goldpromo.com/contacts-eng.php">Contact us</a>
+                        </li>                        
+                    </ul>
                 <div class="shop icon icon-bag"></div>
             </div>
         </div>
@@ -37,7 +49,7 @@ include_once "header.php";
                             <p>Звоните нам —</p>
                         </li>
                         <li>
-                            <a href="tel:88005002020">8 800 500 20 20</a>
+                            <a href="tel:35722282929">+357 22 28 29 29</a>
                             <span>Мы ответим на все вопросы</span>
                         </li>
                     </ul>                     
@@ -49,12 +61,24 @@ include_once "header.php";
                 <div class="general-header-wrap become-wrap">
                     <nav class="top-nav desktop-nav general-header-nav">
                         <ul class="top-nav__list general-header__nav-list">
-                            <li><a href="http://freedom.goldpromo.com/">Главная</a></li>
-                            <li><a href="http://freedom.goldpromo.com/about.php">О компании</a></li>
-                            <li><a href="http://freedom.goldpromo.com/services.php">Услуги</a></li>
-                            <li><a href="http://freedom.goldpromo.com/become-customer.php">Стать клиентом</a></li>
-                            <li><a href="http://freedom.goldpromo.com/regulation.php">Регулирование</a></li>
-                            <li><a href="http://freedom.goldpromo.com/contacts.php">Контакты</a></li>
+                            <li>
+                                <a href="http://freedom.goldpromo.com/index-eng.php">Home</a>
+                            </li>
+                            <li>
+                                <a href="http://freedom.goldpromo.com/about-eng.php">About us</a>
+                            </li>
+                            <li>
+                                <a href="http://freedom.goldpromo.com/services-eng.php">Our services</a>
+                            </li>
+                            <li>
+                                <a href="http://freedom.goldpromo.com/become-customer-eng.php">To become a Client</a>
+                            </li>
+                            <li>
+                                <a href="http://freedom.goldpromo.com/regulation-eng.php">Regulations</a>
+                            </li>
+                            <li>
+                                <a href="http://freedom.goldpromo.com/contacts-eng.php">Contact us</a>
+                            </li>                                
                         </ul>
                     </nav>
                 </div>
@@ -64,7 +88,7 @@ include_once "header.php";
         <div class="row">
             <div class="col-md-12">
                 <div class="head overview-head">      
-                    <h2 class="main-headline-white">Новости и аналитические обзоры</h2>
+                    <h2 class="main-headline-white">News and Analytical survey</h2>
                 </div>
             </div>
         </div>
@@ -73,13 +97,15 @@ include_once "header.php";
                 <div class="col-md-8">                    
                     <div class="left-content">
                         <div class="overview-content-wrap">
-                            <time datetime="2014-04-5T12:00">5 апреля 2016</time>
+                            <time datetime="2014-04-5T12:00">05.04.2016</time>
                             <div class="overview-content-head">
                                 <h3 class="main-headline">U.S. stock market: reports are better than expected</h3>
                             </div>
                             <div class="overview-content">
-                                <p>Timur Turlov, Chef of investment company</p>
-                                <p>The US stock market: why is this earnings season much better than it seems at first glance</p>
+                                <div class="overview-content-item-head">
+                                    <h6>Timur Turlov, Chef of investment company</h6>
+                                    <h6>The US stock market: why is this earnings season much better than it seems at first glance</h6>
+                                </div>
                                 <div class="overview-content-item overview-content-inner-1">
                                     <h6 class="main-headline">We expect</h6>
                                     <p> &#9830; positive tone in the last portion of reports</p>
@@ -162,7 +188,7 @@ include_once "header.php";
                 </div>
                 <div class="col-md-12">
                     <div class="overview-reviews-pagination">
-                        <a href="http://freedom.goldpromo.com/news.php">&#60; Назад</a>                                          
+                        <a href="http://freedom.goldpromo.com/news-eng.php">&#60; Back</a>                                          
                     </div> 
                 </div>
             </div>           
@@ -170,4 +196,4 @@ include_once "header.php";
     </div>
 </header>
 
-<?php include_once "footer.php"; ?>
+<?php include_once "footer-eng.php"; ?>

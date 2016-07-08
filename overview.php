@@ -37,7 +37,7 @@ include_once "header.php";
                             <p>Звоните нам —</p>
                         </li>
                         <li>
-                            <a href="tel:88005002020">8 800 500 20 20</a>
+                            <a href="tel:35722282929">+357 22 28 29 29</a>
                             <span>Мы ответим на все вопросы</span>
                         </li>
                     </ul>                     
@@ -78,8 +78,10 @@ include_once "header.php";
                                 <h3 class="main-headline">U.S. stock market: reports are better than expected</h3>
                             </div>
                             <div class="overview-content">
-                                <p>Timur Turlov, Chef of investment company</p>
-                                <p>The US stock market: why is this earnings season much better than it seems at first glance</p>
+                                <div class="overview-content-item-head">
+                                    <h6>Timur Turlov, Chef of investment company</h6>
+                                    <h6>The US stock market: why is this earnings season much better than it seems at first glance</h6>
+                                </div>                                
                                 <div class="overview-content-item overview-content-inner-1">
                                     <h6 class="main-headline">We expect</h6>
                                     <p> &#9830; positive tone in the last portion of reports</p>

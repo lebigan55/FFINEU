@@ -37,7 +37,7 @@
                                 <p>Call us —</p>
                             </li>
                             <li>
-                                <a href="tel:88005002020">8 800 500 20 20</a>
+                                <a href="tel:35722282929">+357 22 28 29 29</a>
                                 <span>We will respond to all questions</span>
                             </li>
                         </ul>                     
@@ -59,14 +59,22 @@
                     <div class="left-header-wrap">
                         <nav class="left-nav left-header-nav reg-sidebar-menu">
                             <ul class="left-nav__list hp-left-header__nav-list">
-                                <li>  
-                                    <a href="#main-page-head"><div class="icon icon-shield"></div>FFineu</a>
+                                <li>                       
+                                    <a href="#main-page-head">
+                                        <div class="icon icon-logo-two favorit-icon-logo">
+                                            <img src="images/logo-icon-two.png" alt="icon-logo">
+                                        </div>
+                                        <div class="icon icon-logo favorit-icon-logo">
+                                            <img src="images/logo-icon.png" alt="icon-logo">
+                                        </div>   
+                                        FFINEU                                        
+                                    </a>
                                 </li>
                                 <li>
                                     <a href="#main-license"><div class="icon icon-icon-2-03"></div>Licence </a>
                                 </li>
                                 <li>
-                                    <a href="#we-are"><div class="icon icon-19"></div>We are</a>
+                                    <a href="#we-are"><div class="icon icon-19"></div>About us</a>
                                 </li>
                                 <li>
                                     <a href="#main-customer"> <div class="icon icon-18"></div>Our values</a>
@@ -123,7 +131,7 @@
             <div class="row">
                 <div class="col-md-3">
                     <div class="hp-we-head">
-                        <h2 class="main-headline">We are</h2>                       
+                        <h2 class="main-headline">About us</h2>                       
                     </div>
                 </div>
             </div>
@@ -133,15 +141,15 @@
                         <ul>
                             <li>
                                 <img src="images/we-1.jpg" alt="advantages">
-                                <p>We are modern, friendly and a very reliable broker with excellent customer support, having a very good team with experience and expertise in the US stock market.</p>
+                                <p>We are modern, dynamic and reliable broker with professional customer support, having a team with experience and expertise in the US stock market.</p>
                             </li>
                             <li>
                                 <img src="images/we-2.jpg" alt="advantages">
-                                <p>We search the bright ideas in the US stock market, work and ongoing support, and robust platform technologies for the high-quality work in the market.</p>
+                                <p>We are constantly searching the bright ideas in the US stock market, offering an ongoing support, providing robust trading platforms and technologies for the high-performance work on the market.</p>
                             </li>
                             <li>
                                 <img src="images/we-3.jpg" alt="advantages">
-                                <p>Through us you have direct access via the trader or by using the trading platform to the American stock markets and the opportunity to participate in IPO.</p>
+                                <p>Via our traders or by using the trading platform you obtain direct access to the American stock markets and the opportunity to participate in IPO.</p>
                             </li>
                         </ul>
                     </div>
@@ -152,7 +160,7 @@
                     <div class="hp-we__content">                        
                         <h3>FFINEU Investments Limited</h3>
                         <p>FFINEU Investments Limited is registered in Cyprus and provides domestic and international clients access to Russian, American and Kazakh stock exchanges and offers a broad range of services in the financial markets in order to satisfy short and long term financial needs of its clients..</p>
-                        <h3>Our values</h3>
+                        <h3>To become a Client</h3>
                         <p>We concentrate on our core values: HONESTY, INTEGRITY and RESPECT. We are proud of the professionalism and specialized experience of our team, we value the relationships with our clients and have deep personal commitment for continuous development. </p>
                         <h3>Our mission</h3>
                         <p>To provide the best in class service for your investment in the largest companies of the world.</p>                                             
@@ -165,12 +173,18 @@
     <section id="main-customer" class="hp-customer">
         <div class="container clearfix">
             <div class="row">
-                <div class="col-md-5">
+                <div class="col-md-6">
                     <div class="hp-customer__content">
                         <h2 class="main-headline-white">To become a client </h2>
-                        <p>Here the text of the description of this unit, </p> 
-                        <p>for clarification. Possibly in multiple lines</p> 
-                        <p>up to the next line.</p>
+                        <div class="hp-customer__content-item">
+                            <p>Step 1 – Complete and sign the <span>Questionnaire/Investment Profile of the Client.</span></p>
+                        </div>
+                        <div class="hp-customer__content-item">
+                            <p>Step 2 – Prepare a package of documents required as per the <span>APPENDIX 1.1./1.2. to ISA <a href="http://freedom.goldpromo.com/become-customer-eng.php">List of Documents</a></span></p>
+                        </div>
+                        <div class="hp-customer__content-item">
+                            <p>Step 3 – The prepared package of documents shall be sent to <span>FFINEU Investments Limited</span></p>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-4">                  

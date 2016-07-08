@@ -40,7 +40,7 @@
                                         <p>Звоните нам —</p>
                                     </li>
                                     <li>
-                                        <a href="tel:88005002020">8 800 500 20 20</a>
+                                        <a href="tel:35722282929">+357 22 28 29 29</a>
                                         <span>Мы ответим на все вопросы</span>
                                     </li>
                                 </ul>                        
@@ -52,7 +52,7 @@
                 <div class="col-md-4">
                     <div class="footer-column-right">
                         <div class="social-icons">
-                            <ul>
+                        <!--    <ul>
                                 <li>
                                     <a href="#" class="icon-vimeo-circled"></a>
                                 </li>
@@ -68,15 +68,15 @@
                                 <li>
                                     <a href="#" class="icon-linkedin-circled"></a>
                                 </li>
-                            </ul>
-                        </div>
+                            </ul>-->
+                        </div> 
                         <div class="column-right-contacts">
                             <ul>
                                 <li>
-                                    <p>Fax: <a href="tel:500500500">500 500 500</a></p>
+                                    <p>Fax: <a href="tel:35722282920">+357 22282920</a></p>
                                 </li>
                                 <li>
-                                    <p>E-mail: <a href="mailto:info@ffin.com">info@ffin.com</a></p>
+                                    <p>E-mail: <a href="mailto:info@ffineu.eu">info@ffineu.eu</a></p>
                                 </li>
                             </ul>
                         </div>
@@ -103,7 +103,7 @@
     <div id="small-dialog" class="zoom-anim-dialog mfp-hide">        
         <div class="top-form-wrap remodal-form-wrap" >
             <h3>Оставьте заявку</h3>
-            <p>и наш специалист перезвонит вам течение дня</p>
+            <p>и наш специалист свяжется с Вами в ближайшее время</p>
             
 
             <form action="form-control/mail1.php" method="post" id="modal-form-1" class="main-form-top" name="main-form">    

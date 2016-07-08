@@ -56,6 +56,5 @@ $('#main-form').validate ();
 $('#modal-form-1').validate ();
 
 
-$("#phone").inputmask("+7(999) 999-99-99");
-$("#phone-2").inputmask("+7(999) 999-99-99");
+
 

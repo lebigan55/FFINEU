@@ -37,7 +37,7 @@ include_once "header.php";
                             <p>Звоните нам —</p>
                         </li>
                         <li>
-                            <a href="tel:88005002020">8 800 500 20 20</a>
+                            <a href="tel:35722282929">+357 22 28 29 29</a>
                             <span>Мы ответим на все вопросы</span>
                         </li>
                     </ul>                     
@@ -76,7 +76,7 @@ include_once "header.php";
                             <div class="news-content-wrap">
                                 <time datetime="2014-04-5T12:00">5 апреля 2016</time>
                                 <div class="new-content-head">
-                                    <a href="#">U.S. stock market: reports are better than expected</a>
+                                    <a href="http://freedom.goldpromo.com/overview.php">U.S. stock market: reports are better than expected</a>
                                 </div>
                                 <div class="new-content">
                                     <p>450 out of the 500 largest US companies have already submitted their reports for the Q1. They exceeded expectations in general, but investors are looking for stronger results in the next quarters. The consensus forecast of analysts confirms that these expectations are justified.</p>

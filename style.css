@@ -1726,7 +1726,7 @@ th {
       width: 275px;
       position: relative;
       top: 25px;
-      line-height: 1.6;
+      line-height: 1.3;
       padding-left: 26px;
       z-index: 20;
     }
@@ -1748,13 +1748,28 @@ th {
       background: url("images/form-bg.jpg") no-repeat top center;
       background-size: cover;
       padding-top: 100px;
-      padding-bottom: 20px;
+      padding-bottom: 40px;
+    }
+    .hp-customer__content-item {
+      margin-bottom: 10px;
     }
     .hp-customer__content p {
       font-weight: 300;
       font-size: 22px;
       color: #fff;
-      margin-bottom: 5px;
+      margin-bottom: 0;
+    }
+    .hp-customer__content span {
+      font-weight: 500;
+    }
+    .hp-customer__content span a {
+      font-weight: 500;
+      text-decoration: none;
+      font-size: 22px;
+      border-bottom: 1px dashed #fff;
+    }
+    .hp-customer__content span a:hover {
+      border-bottom: 1px dashed #11aea2;
     }
     .main-form__wrap {
       display: block;
@@ -2020,7 +2035,7 @@ th {
     .about-license__content h3 {
       font-size: 35px;
       padding-top: 65px;
-      margin-bottom: 70px;
+      margin-bottom: 35px;
       margin-left: 25px;
     }
     .license__content-item h4 {
@@ -2032,14 +2047,14 @@ th {
       max-width: 300px;
       font-weight: 400;
       font-size: 16px;
-      color: #fff;
-      margin-bottom: 41px;
+      color: #fff;      
     }
     .about-license__content {
       width: 100%;
       min-height: 530px;
       background: url("images/bg-license.jpg") no-repeat top center;
       background-size: cover;
+      padding-bottom: 25px;
     }
     .about-company-group {
       width: 100%;
@@ -2284,6 +2299,20 @@ th {
     .become-item-3 {
       margin-top: -5px;
       margin-bottom: 75px;
+    }
+    .become-item-3 a {
+      text-decoration: none;      
+      transition: all 0.3s ease;
+    }
+    .become-item-3 a:hover p {
+      color: #11aea2;
+    }
+    .become-item-2 a {
+      text-decoration: none;      
+      transition: all 0.3s ease;
+    }
+    .become-item-2 a:hover p {
+      color: #11aea2;
     }
     .become-item-2 p {
       font-weight: 300;
@@ -2541,7 +2570,7 @@ th {
       content: " ";
       display: block;
       width: 1px;
-      height: 300px;
+      height: 390px;
       background: #5c5f76;
       position: absolute;
     }
@@ -2569,7 +2598,7 @@ th {
       position: absolute;
       clip: rect(0, 1080px, 540px, 0);
       position: absolute;
-      top: 320px;
+      top: 375px;
       right: 1px;
       z-index: 50;
       overflow: hidden;
@@ -2946,6 +2975,36 @@ label.error {
 }
 .mfp-close:hover {
   color: red;
+}
+.column-right-contacts {
+  padding-top: 45px;
+}
+.left-nav__list li a div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.left-nav__list li a div.icon-logo-two {
+  display: inline-block;
+}
+.left-nav__list li a div.icon-logo {
+  display: none;
+}
+
+.left-nav__list a:hover div.icon-logo-two {
+  display: none;
+}
+.left-nav__list a:hover div.icon-logo {
+  display: inline-block;
+}
+a._mPS2id-h.mPS2id-highlight div.icon-logo {
+  display: inline-block;
+}
+a._mPS2id-h.mPS2id-highlight div.icon-logo-two {
+  display: none;
+}
+.favorit-icon-logo img{
+  width: 22px;
+  height: 25px;
 }
 
 //--------------------- map---------------------//

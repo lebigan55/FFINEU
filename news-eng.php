@@ -37,7 +37,7 @@
                             <p>Call us —</p>
                         </li>
                         <li>
-                            <a href="tel:88005002020">8 800 500 20 20</a>
+                            <a href="tel:35722282929">+357 22 28 29 29</a>
                             <span>We will respond to all questions</span>
                         </li>
                     </ul>                     
@@ -74,7 +74,31 @@
                     <div class="left-content">
                         <div class="item">
                             <div class="news-content-wrap">
-                                <time datetime="2014-04-5T12:00">5 апреля 2016</time>
+                                <time datetime="2014-04-5T12:00">05.04.2016</time>
+                                <div class="new-content-head">
+                                    <a href="http://freedom.goldpromo.com/overview-eng.php">U.S. stock market: reports are better than expected</a>
+                                </div>
+                                <div class="new-content">
+                                    <p>450 out of the 500 largest US companies have already submitted their reports for the Q1. They exceeded expectations in general, but investors are looking for stronger results in the next quarters. The consensus forecast of analysts confirms that these expectations are justified.</p>
+                                    <h4>Headline news:</h4>
+                                    <ul>
+                                        <li>
+                                            <p>Earnings season has almost finished exceeding expectations. (04/22 – 05/11/2016)</p>
+                                        </li>
+                                        <li>
+                                            <p>The Fed has kept rates at the same level. (27/04/2016)</p>
+                                        </li>
+                                        <li>
+                                            <p>The US macro data is mixed. (04/22 – 06/05/2016)</p>
+                                        </li>
+                                        <li>
+                                            <p>China imports and exports has decreased. (08/05/2016)</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="news-content-wrap">
+                                <time datetime="2014-04-5T12:00">05.04.2016</time>
                                 <div class="new-content-head">
                                     <a href="#">U.S. stock market: reports are better than expected</a>
                                 </div>
@@ -98,31 +122,7 @@
                                 </div>
                             </div>
                             <div class="news-content-wrap">
-                                <time datetime="2014-04-5T12:00">5 апреля 2016</time>
-                                <div class="new-content-head">
-                                    <a href="#">U.S. stock market: reports are better than expected</a>
-                                </div>
-                                <div class="new-content">
-                                    <p>450 out of the 500 largest US companies have already submitted their reports for the Q1. They exceeded expectations in general, but investors are looking for stronger results in the next quarters. The consensus forecast of analysts confirms that these expectations are justified.</p>
-                                    <h4>Headline news:</h4>
-                                    <ul>
-                                        <li>
-                                            <p>Earnings season has almost finished exceeding expectations. (04/22 – 05/11/2016)</p>
-                                        </li>
-                                        <li>
-                                            <p>The Fed has kept rates at the same level. (27/04/2016)</p>
-                                        </li>
-                                        <li>
-                                            <p>The US macro data is mixed. (04/22 – 06/05/2016)</p>
-                                        </li>
-                                        <li>
-                                            <p>China imports and exports has decreased. (08/05/2016)</p>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="news-content-wrap">
-                                <time datetime="2014-04-5T12:00">5 апреля 2016</time>
+                                <time datetime="2014-04-5T12:00">05.04.2016</time>
                                 <div class="new-content-head">
                                     <a href="#">Company Update (NASDAQ:GILD): Gilead Sciences, Inc. Names John F. Milligan as CEO</a>
                                 </div>    
@@ -131,7 +131,7 @@
                                 </div>
                             </div>
                             <div class="news-content-wrap">
-                                <time datetime="2014-04-5T12:00">5 апреля 2016</time>
+                                <time datetime="2014-04-5T12:00">05.04.2016</time>
                                 <div class="new-content-head">
                                     <a href="#">U.S. stock market: reports are better than expected</a>
                                 </div>
@@ -155,7 +155,7 @@
                                 </div>
                             </div>
                             <div class="news-content-wrap">
-                                <time datetime="2014-04-5T12:00">5 апреля 2016</time>
+                                <time datetime="2014-04-5T12:00">05.04.2016</time>
                                 <div class="new-content-head">
                                     <a href="#">U.S. stock market: reports are better than expected</a>
                                 </div>    
@@ -179,7 +179,7 @@
                                 </div>
                             </div>
                             <div class="news-content-wrap">
-                                <time datetime="2014-04-5T12:00">5 апреля 2016</time>
+                                <time datetime="2014-04-5T12:00">05.04.2016</time>
                                 <div class="new-content-head">
                                     <a href="#">U.S. stock market: reports are better than expected</a>
                                 </div>    
@@ -207,7 +207,7 @@
                 </div>
                 <div class="col-md-3 col-md-offset-1">
                     <div class="sidebar">
-                        <time datetime="2014-04-22T12:00">22 апреля 2016</time>
+                        <time datetime="2014-04-22T12:00">22.04.2016</time>
                         <div class="new-content-head">
                             <a href="#">Xerox Splitting in Two as It Grapples With Changing Market</a>
                         </div>
@@ -216,7 +216,7 @@
                         </div>
                     </div>
                     <div class="sidebar">
-                        <time datetime="2014-04-22T12:00">22 апреля 2016</time>
+                        <time datetime="2014-04-22T12:00">22.04.2016</time>
                         <div class="new-content-head">
                             <a href="#">Company Update (NASDAQ:GILD): Gilead Sciences, Inc. Names John F. Milligan as CEO</a>
                         </div>
@@ -225,7 +225,7 @@
                         </div>
                     </div>
                     <div class="sidebar">
-                        <time datetime="2014-04-22T12:00">22 апреля 2016</time>
+                        <time datetime="2014-04-22T12:00">22.04.2016</time>
                         <div class="new-content-head">
                             <a href="#">Xerox Splitting in Two as It Grapples With Changing Market</a>
                         </div>                            
@@ -234,7 +234,7 @@
                         </div>
                     </div>                  
                     <div class="sidebar">
-                        <time datetime="2014-04-22T12:00">22 апреля 2016</time>
+                        <time datetime="2014-04-22T12:00">22.04.2016</time>
                         <div class="new-content-head">
                             <a href="#">Company Update (NASDAQ:GILD): Gilead Sciences, Inc. Names John F. Milligan as CEO</a>                                
                         </div>

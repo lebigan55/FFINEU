@@ -37,7 +37,7 @@ include_once "header.php";
                             <p>Звоните нам —</p>
                         </li>
                         <li>
-                            <a href="tel:88005002020">8 800 500 20 20</a>
+                            <a href="tel:35722282929">+357 22 28 29 29</a>
                             <span>Мы ответим на все вопросы</span>
                         </li>
                     </ul>                     
@@ -72,6 +72,10 @@ include_once "header.php";
                             <p>Telephone:</p>
                             <a href="tel:35722282929">+357 22282929</a>
                         </div>
+                        <div class="contacts-content-item contacts-content-fax">
+                            <p>Fax:</p>
+                            <a href="tel:35722282920">+357 22282920</a>
+                        </div>
                         <div class="contacts-content-item contacts-content-email">
                             <p>Email:</p>
                             <a href="mailto:info@ffineu.eu">info@ffineu.eu</a>
@@ -85,7 +89,7 @@ include_once "header.php";
 
 <div class="map">        
     <div class="map-wrap">
-        <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=pd5AaZSSpVlXYr4xRayp0xImM7nUTly8&width=100%&height=720&lang=ru_RU&sourceType=constructor&scroll=true"></script>
+        <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=RIIp4jEPiidmNg59XiZLdGBLHHosV6G1&width=100%&height=720&lang=ru_RU&sourceType=constructor&scroll=true"></script>
         <div class="overlay-map"></div>
     </div>
 </div>

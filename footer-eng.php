@@ -40,7 +40,7 @@
                                         <p>Call us —</p>
                                     </li>
                                     <li>
-                                        <a href="tel:88005002020">8 800 500 20 20</a>
+                                        <a href="tel:35722282929">+357 22 28 29 29</a>
                                         <span>We will respond to all questions</span>
                                     </li>
                                 </ul>                        
@@ -52,7 +52,7 @@
                 <div class="col-md-4">
                     <div class="footer-column-right">
                         <div class="social-icons">
-                            <ul>
+                        <!--    <ul>
                                 <li>
                                     <a href="#" class="icon-vimeo-circled"></a>
                                 </li>
@@ -68,15 +68,15 @@
                                 <li>
                                     <a href="#" class="icon-linkedin-circled"></a>
                                 </li>
-                            </ul>
+                            </ul> -->
                         </div>
                         <div class="column-right-contacts">
                             <ul>
                                 <li>
-                                    <p>Fax: <a href="tel:500500500">500 500 500</a></p>
+                                    <p>Fax: <a href="tel:35722282920">+357 22282920</a></p>
                                 </li>
                                 <li>
-                                    <p>E-mail: <a href="mailto:info@ffin.com">info@ffin.com</a></p>
+                                    <p>E-mail: <a href="mailto:info@ffineu.eu">info@ffineu.eu</a></p>
                                 </li>
                             </ul>
                         </div>

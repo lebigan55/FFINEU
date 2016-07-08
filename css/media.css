@@ -310,19 +310,7 @@
 
 }
 
-/* Extra Small Devices, Phones */
-@media only screen and (max-width : 667px) {
-	
-}
-@media only screen and (max-width : 585px) {
-	
-}
-@media only screen and (max-width : 532px) {
-	
-}
-@media only screen and (max-width : 500px) {
-	
-}
+
 
 @media only screen and (max-width : 480px) {
 	.icon-become ul li {
@@ -354,18 +342,12 @@
 	.mission-content li div {
 		margin-left: 0;
 	}
-	
+	.overview-content-wrap {
+		padding-left: 0;
+	}
 
 }
-@media only screen and (max-width : 450px) {
 
-}
-@media only screen and (max-width : 400px) {
-	
-}
-@media only screen and (max-width : 380px) {
-	
-}
 
 @media only screen and (max-width : 360px) {
 	.hp-license__center-content {
@@ -403,10 +385,7 @@
 	
 	
 	
-}
-@media only screen and (max-width : 345px) {
-		
-}
+
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
 	.head {

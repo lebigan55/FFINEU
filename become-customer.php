@@ -37,7 +37,7 @@
                                 <p>Звоните нам —</p>
                             </li>
                             <li>
-                                <a href="tel:88005002020">8 800 500 20 20</a>
+                                <a href="tel:35722282929">+357 22 28 29 29</a>
                                 <span>Мы ответим на все вопросы</span>
                             </li>
                         </ul>                     
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-md-7">
                     <div class="become-item-2">
-                        <p>Ознакомиться со списком документов, выложенных на сайт</p>
+                        <a href="#documentation-link"><p>Ознакомиться со списком документов, выложенных на сайт</p></a>
                     </div>
                 </div>
             </div>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="col-md-7">
                     <div class="become-item-2">
-                        <p>Заполнить и подписать Анкету Клиента</p>
+                        <p>Заполнить и подписать Анкету/Инвестиционный профиль Клиента</p>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                 </div>
                 <div class="col-md-7">
                     <div class="become-item-3">
-                        <p>Подготовить комплект необходимых документов, в соответствии Приложением 1.1./1.2. Список документов</p>
+                        <a href="#documentation-link-2"><p>Подготовить комплект необходимых документов, в соответствии Приложением 1.1./1.2. Список документов</p></a>
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-md-7">
                     <div class="become-item-3">
-                        <p>Отправить по электронной почте <a href="mailto:info@ffineu.eu">info@ffineu.eu</a> скан паспорта и Анкету Клиента</p>
+                        <p>Отправить по электронной почте <a href="mailto:info@ffineu.eu">info@ffineu.eu</a> скан действующего паспорта и заполненную и подписанную Анкету/Инвестиционный профиль Клиента</p>
                     </div>
                 </div>
             </div>
@@ -119,7 +119,7 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="documentation-head">
+                        <div class="documentation-head" id="documentation-link">
                             <h3 class="main-headline">Документы для открытия счета в Компании:</h3>        
                         </div>
                         <div class="documentation-link">
@@ -135,7 +135,7 @@
                                     <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20RISK%20DISCLOSURE.pdf" target="blank">Положение по раскрытию рисков по операциям с ценными бумагами</a>
                                 </li>
                                 <li>
-                                    <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20CLIENT%20CATEGORIZATION.pdf" target="blank">Критерии категоризации клиентов</a>
+                                    <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20CLIENT%20CATEGORIZATION.pdf" target="blank">Правила Категоризации Клиентов и Контрагентов Компании</a>
                                 </li>
                                 <li>
                                     <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20INVESTOR%20COMPENSATION%20FUND.pdf" target="blank">Информация о Компенсационном Фонде Инвесторов для Клиентов Кипрских Инвестиционных Фирм (CIFs)</a>
@@ -144,12 +144,12 @@
                                     <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20MARGIN%20AND%20NON-COVERED%20TRANSACTIONS%20RULES.pdf" target="blank">Правила совершения маржинальных и необеспеченных сделок</a>
                                 </li>
                                 <li>
-                                    <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20TARIFFS.pdf" target="blank">Тарифы Компании и Вознаграждения</a>
+                                    <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20TARIFFS.pdf" target="blank">Положение о Комиссионных и тарифных сборах к Договору о оказании инвестиционных услуг</a>
                                 </li>
                                 <li>
-                                    <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20CLIENTS%20COMPLAINTS.pdf?v1" target="blank">Жалобы Клиентов</a>
+                                    <a href="http://ffineu.eu/upload/regulations/(WEBSITE)%20ANNEX%20to%20ISA%20CLIENTS%20COMPLAINTS.pdf?v1" target="blank">Порядок рассмотрения жалоб клиентов</a>
                                 </li>
-                                <li>
+                                <li id="documentation-link-2">
                                     <a href="http://ffineu.eu/upload/regulations/INVESTMENT%20SERVICES%20AGREEMENT%20(amended).pdf" target="blank">Договор об оказании инвестиционных услуг</a>
                                 </li>
                                 <li>

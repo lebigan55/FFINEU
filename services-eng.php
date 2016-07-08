@@ -37,7 +37,7 @@
                                 <p>Call us —</p>
                             </li>
                             <li>
-                                <a href="tel:88005002020">8 800 500 20 20</a>
+                                <a href="tel:35722282929">+357 22 28 29 29</a>
                                 <span>We will respond to all questions</span>
                             </li>
                         </ul>                     
@@ -177,13 +177,13 @@
                     <div class="trading-platforms-link">
                         <ul>
                             <li>
-                                <a href="#">Quik</a>
+                                <a href="/platform/ffinquiksetup.exe">Quik</a>
                             </li>
                             <li>
-                                <a href="#">NetInvestor</a>
+                                <a href="/platform/NIPro_setup.exe">NetInvestor</a>
                             </li>
                             <li>
-                                <a href="#">ROX</a>
+                                <a href="/platform/FTrader.exe">F-Trader</a>
                             </li>                           
                         </ul>
                     </div>

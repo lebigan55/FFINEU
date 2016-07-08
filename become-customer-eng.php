@@ -50,7 +50,7 @@
                                 <p>Call us —</p>
                             </li>
                             <li>
-                                <a href="tel:88005002020">8 800 500 20 20</a>
+                                <a href="tel:35722282929">+357 22 28 29 29</a>
                                 <span>We will respond to all questions</span>
                             </li>
                         </ul>                     
@@ -100,7 +100,7 @@
                 </div>
                 <div class="col-md-7">
                     <div class="become-item-2">
-                        <p>Familiarize with a list of documents posted on the site</p>
+                        <a href="#documentation-link"><p>Familiarize with a list of documents posted on the site</p></a>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="documentation-head">
+                        <div class="documentation-head"  id="documentation-link">
                             <h3 class="main-headline">Documents required to open an account in the Company</h3>        
                         </div>
                         <div class="documentation-link">

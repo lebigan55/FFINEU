@@ -49,7 +49,7 @@
                                 <p>Call us —</p>
                             </li>
                             <li>
-                                <a href="tel:88005002020">8 800 500 20 20</a>
+                                <a href="tel:35722282929">+357 22 28 29 29</a>
                                 <span>We will respond to all questions</span>
                             </li>
                         </ul>                     
@@ -67,8 +67,16 @@
                     <div class="left-header-wrap">
                         <nav class="left-nav left-header-nav reg-sidebar-menu">
                             <ul class="left-nav__list about-left-header__nav-list">
-                                <li class="active">
-                                    <a href="#about-head"><div class="icon icon-shield"></div>About us</a>
+                                <li>                       
+                                    <a href="#about-head">
+                                        <div class="icon icon-logo-two favorit-icon-logo">
+                                            <img src="images/logo-icon-two.png" alt="icon-logo">
+                                        </div>
+                                        <div class="icon icon-logo favorit-icon-logo">
+                                            <img src="images/logo-icon.png" alt="icon-logo">
+                                        </div>   
+                                        About us                                        
+                                    </a>
                                 </li>
                                 <li>
                                     <a href="#about_license"><div class="icon icon-icon-2-03"></div>Licenсes</a>
@@ -155,14 +163,7 @@
                             <div class="license__content-item">
                                 <h4 class="main-headline-white">Investment services</h4>
                                 <p>Reception and transmission of orders in relation to one or more financial instruments.</p>
-                            </div>
-                            <div class="license__content-icon">
-                                <img src="images/license-icon-3.png" alt="license">
-                            </div>
-                            <div class="license__content-item">
-                                <h4 class="main-headline-white">Exchange services</h4>
-                                <p>Foreign exchange services where these are connected to the provision of investment services.</p>
-                            </div>
+                            </div>                            
                         </div>
                         <div class="col-md-4 col-md-offset-1">
                             <div class="license__content-icon">
@@ -170,7 +171,9 @@
                             </div>
                             <div class="license__content-item">
                                 <h4 class="main-headline-white">Ancillary services</h4>
-                                <p>Safekeeping and administration of financial instruments for the account of clients, including custodianship and related services Granting credits or loans to an investor to allow him to carry out a transaction in one or more financial instruments, where the company granting the credit or loan is involved in the transaction.</p>
+                                <p>&#9830; Safekeeping and administration of financial instruments for the account of clients, including custodianship and related services</p>
+                                <p>&#9830; Granting credits or loans to an investor to allow him to carry out a transaction in one or more financial instruments, where the company granting the credit or loan is involved in the transaction</p>
+                                <p>&#9830; Foreign exchange services where these are connected to the provision of investment services</p>
                             </div>
                         </div>
                     </div>

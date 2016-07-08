@@ -37,7 +37,7 @@ include_once "header-eng.php";
                             <p>Call us —</p>
                         </li>
                         <li>
-                            <a href="tel:88005002020">8 800 500 20 20</a>
+                            <a href="tel:35722282929">+357 22 28 29 29</a>
                             <span>We will respond to all questions</span>
                         </li>
                     </ul>                     
